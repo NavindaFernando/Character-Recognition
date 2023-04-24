@@ -1,5 +1,5 @@
 <h3 align="center">
-Character-Recognition :snake:
+Character-Recognition :coffee:
 </h3>
 
 ***
